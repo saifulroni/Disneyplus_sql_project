@@ -1,3 +1,4 @@
+```sql
 CREATE TABLE disneyplus (
 	show_id 	VARCHAR (10),
 	type 		VARCHAR (10),
@@ -11,5 +12,6 @@ CREATE TABLE disneyplus (
 	duration	VARCHAR (20),
 	listed_in	VARCHAR (100),
 	description VARCHAR (250)
-
 );
+
+```
